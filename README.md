@@ -1,0 +1,1 @@
+# AppleShortcuts-Persistent-Dictionary
